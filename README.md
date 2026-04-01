@@ -1,4 +1,4 @@
-# vr. https://narayankosloski.github.io/vr/
+#vr
 
 
 https://narayankosloski.github.io/vr/
